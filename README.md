@@ -2,6 +2,13 @@
 
 A basic API using SLIM.4 PHP - Framework. 
 
+<p>
+    I created a basic API using SlimFramework in version 4. 
+    This is a study project to test my knowledge in API, rest, restFUL.
+    This application can create, read, remove and update products and auth users.
+    any requisition necessities a authentication, generate by a token
+ </p>
+
 <strong> A migration script as generated. </strong> 
 Use in command line 
 ```
@@ -20,8 +27,6 @@ pass token using <strong> X-Token 7fkWGnmw7pSmXgsIIgnMqyquInV3SDCSSg4eA7pSOXA </
 Example in insomnia or postman use in headers X-Token and 7fkWGnmw7pSmXgsIIgnMqyquInV3SDCSSg4eA7pSOXA
 
 ... or change to Authorization...
-
-a basic auth example. 
 
 
 Technologies used 
