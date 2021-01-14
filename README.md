@@ -22,3 +22,22 @@ Example in insomnia or postman use in headers X-Token and 7fkWGnmw7pSmXgsIIgnMqy
 ... or change to Authorization...
 
 a basic auth example. 
+
+
+Technologies used 
+
+<ul>
+    <li>PHP v 7.3.4 </li>
+    <li>Mysql</li>
+    <li>SlimFramework v.4</li>
+    <li>Another libraries</li>
+</ul>
+
+
+<strong> Hi! i'm Sylvn001 -- Visit my social medias. i created many projects in my GitHub!! </strong>
+
+<h3> Follow me! </h3>
+Instagram: https://www.instagram.com/s1lvn/ <br> 
+Twitch: https://www.twitch.tv/sylvn001 <br>
+GitHub: https://github.com/Sylvn001 <br>
+
