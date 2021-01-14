@@ -39,7 +39,9 @@ $callableResolver = $app->getCallableResolver();
 
 // Register middleware
 $middleware = require __DIR__ . '/../app/middleware.php';
-$middleware($app);
+$middleware($app, $container);
+
+$container->get('db');
 
 // Register routes
 $routes = require __DIR__ . '/../app/routes.php';

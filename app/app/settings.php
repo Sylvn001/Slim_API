@@ -25,6 +25,7 @@ return function (ContainerBuilder $containerBuilder) {
                 'collation' => 'utf8_unicode_ci',
                 'prefix'    => '',
             ],
+            'secretKey' => "bd96100aead85b037a1007bf815e873f832048e8",
         ],
     ]);
 };
